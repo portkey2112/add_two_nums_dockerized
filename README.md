@@ -1,4 +1,4 @@
-**A simple application to show the usage of docker. **
+A simple application to show the usage of docker.
 
 Sample docker run commands:
 
